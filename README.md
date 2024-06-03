@@ -9,6 +9,9 @@ from 2014 and 2019 elections without any bias and discuss less explored themes
 like voter turnout percentage in India. As a data analyst in the company, the task 
 is to  generate meaningful insights from data. 
 
+## Dataset Understanding
+The dataset consist of 3 csv fies.
+
 ## Steps Performed
 ### Date Cleaning:
 Step 1: Peformed task such as appending the two tables,Clean,trim,replace values etc.
