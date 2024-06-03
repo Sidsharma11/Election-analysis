@@ -10,10 +10,12 @@ like voter turnout percentage in India. As a data analyst in the company, the ta
 is to  generate meaningful insights from data. 
 
 ## Steps Performed
-### Date Cleaning
+### Date Cleaning:
+Step 1: Peformed task such as appending the two tables,Clean,trim,replace values etc.
+
 ![Screenshot 2024-06-03 135320](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/a3779d7f-5197-4df1-83b4-b355ff881f9a)
 
-In 2014, Andhra Pradesh underwent bifurcation. For simplicity, all constituencies
+Step 2: Replaced values --In 2014, Andhra Pradesh underwent bifurcation. For simplicity, all constituencies
 from thatyear should be attributed to Telangana state. This includes constituencies
 such as Adilabad, Hyderabad, Warangal, etc., which should be considered part of
 Telangana rather than Andhra Pradesh for the year 2014.
