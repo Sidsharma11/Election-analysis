@@ -81,6 +81,17 @@ used view 'winner_2014' and 'winner_2019'
 ![Screenshot 2024-06-05 235251](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/1a1969fe-0acf-4b59-8175-259b091090f7)
 ![Screenshot 2024-06-05 235321](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/c5dc45be-ca14-4364-b2ad-99fc924876c0)
 
+#### Q-5)Top 5 candidates based on margin difference with runners in 2014 and 2019.
+
+created temporary tables 'winner' and runner_up
+![Screenshot 2024-06-06 004709 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/78f01964-580d-452f-af22-ca5451103e0b)
+
+![Screenshot 2024-06-06 004740](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/aad4796b-6280-4917-9590-336af090668b)
+![Screenshot 2024-06-06 004803 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/4d9a17c7-4297-4293-997b-66220eee1ace)
+![Screenshot 2024-06-06 004819 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/ec572256-8cd0-4b24-b5bc-38f74acf409d)
+![Screenshot 2024-06-06 004841](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/43b6c0b6-7d94-491e-b7ff-019b7058a99a)
+
+
 
 
 
