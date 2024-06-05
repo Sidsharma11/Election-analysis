@@ -72,6 +72,15 @@ Telangana rather than Andhra Pradesh for the year 2014.
 ![Screenshot 2024-06-05 234623](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/d08f5dbf-81c5-4213-ba19-fd3ec4b931a5)
 ![Screenshot 2024-06-05 234651](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/ebd886cc-40c3-43b0-9af6-5b5cd0cceddd)
 
+#### Q-4)Which constituencies have voted for different parties in two elections (list top 10 based on difference (2019-2014) in winner vote percentage in two elections)
+
+Created view 'winner_2014'and 'winner_2019' using
+![image](https://github.com/Sidsharma11/Election-analysis/assets/167175484/737e0595-cbf6-4337-805c-e4a9438ee040)
+
+used view 'winner_2014' and 'winner_2019'
+![Screenshot 2024-06-05 235251](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/1a1969fe-0acf-4b59-8175-259b091090f7)
+![Screenshot 2024-06-05 235321](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/c5dc45be-ca14-4364-b2ad-99fc924876c0)
+
 
 
 
