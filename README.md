@@ -81,7 +81,7 @@ used view 'winner_2014' and 'winner_2019'
 ![Screenshot 2024-06-05 235251](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/1a1969fe-0acf-4b59-8175-259b091090f7)
 ![Screenshot 2024-06-05 235321](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/c5dc45be-ca14-4364-b2ad-99fc924876c0)
 
-#### Q-5)Top 5 candidates based on margin difference with runners in 2014 and 2019.
+#### Q-5) Top 5 candidates based on margin difference with runners in 2014 and 2019.
 
 created temporary tables 'winner' and runner_up
 ![Screenshot 2024-06-06 004709 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/78f01964-580d-452f-af22-ca5451103e0b)
@@ -90,6 +90,22 @@ created temporary tables 'winner' and runner_up
 ![Screenshot 2024-06-06 004803 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/4d9a17c7-4297-4293-997b-66220eee1ace)
 ![Screenshot 2024-06-06 004819 - Copy](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/ec572256-8cd0-4b24-b5bc-38f74acf409d)
 ![Screenshot 2024-06-06 004841](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/43b6c0b6-7d94-491e-b7ff-019b7058a99a)
+
+#### Q-6) % Split of votes of parties between 2014 vs 2019 at national level.
+
+Create view 'parties_vote_share_2014' and 'parties_vote_share_2019' using
+
+grab from 'parties_vote_share_2019'
+![Screenshot 2024-06-06 112814](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/c444c703-da03-411c-9606-042ab1dc7275)
+![Screenshot 2024-06-06 112826](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/60a83c03-8805-4444-9ef2-ab16efb3b095)
+
+Created union of 'parties_vote_share_2014' and 'parties_vote_share_2019'
+![Screenshot 2024-06-06 112901](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/1b27e5ad-2671-4d61-ab3d-ec1e5f9ce1b1)
+
+Result
+![Screenshot 2024-06-06 112946](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/cb37c216-8a7a-494a-98d2-79d9cb5e2e0c)
+![Screenshot 2024-06-06 113015](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/e6df10a0-0e27-477f-8b7c-b0da1a11b110)
+
 
 
 
