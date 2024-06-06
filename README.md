@@ -145,6 +145,18 @@ Top consistuency where inc vote share has increased the highest from 2014 to 201
 ![Screenshot 2024-06-06 191443](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/fedb72a9-17d1-417e-8939-fe147b4b5469)
 
 
+#### Q-9)List top 5 constituencies for two major national parties where they have lost vote share in 2019 as compared to 2014.
+
+Top bad performing constituencies for BJP from 2014 to 2019
+
+![Screenshot 2024-06-06 193821](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/ecafbe05-84b3-4789-a39d-128056ddb96e)
+
+Top bad performing constituencies for INC from 2014 to 2019
+
+![Screenshot 2024-06-06 194126](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/d586bea7-5705-42a1-a22c-e578c2179da3)
+
+
+
 
 
 
