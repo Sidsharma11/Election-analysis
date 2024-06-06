@@ -123,6 +123,30 @@ Result
 ![image (1)](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/720f09d3-05c0-4bc0-9f8a-5b1549b8e878)
 
 
+#### Q-8) List top 5 constituencies for two major national parties where they have gained vote share in 2019 as compared to 2014.
+
+Created view 'bjp_vote_share_constituency_wise_2014','bjp_vote_share_constituency_wise_2019','inc_vote_share_constituency_wise_2014',
+'inc_vote_share_constituency_wise_2014' using query similar to the below query. I have showed here query used for creating view for
+'bjp_vote_share_constituency_wise_2014'
+
+![Screenshot 2024-06-06 190615](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/b5f03c44-67eb-43ba-a411-b68dcbf6c457)
+
+Created INNER JOIN  of 'bjp_vote_share_constituency_wise_2014','bjp_vote_share_constituency_wise_2019'. Here we have taken only those constituencies
+where both BJP and INC fought in 2014 and 2019
+
+![Screenshot 2024-06-06 190639](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/3b256e83-ade8-45c8-855e-d05b763edbf1)
+
+Top consistuency where bjp vote share has increased the highest from 2014 to 2019
+![Screenshot 2024-06-06 190657](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/2ac9e7e7-912a-48d1-b84c-6e99edd1ee3d)
+
+
+Top consistuency where inc vote share has increased the highest from 2014 to 2019
+
+![Screenshot 2024-06-06 191443](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/fedb72a9-17d1-417e-8939-fe147b4b5469)
+
+
+
+
 
 
 
