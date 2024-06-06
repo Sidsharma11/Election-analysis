@@ -107,6 +107,22 @@ Result
 ![Screenshot 2024-06-06 113015](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/e6df10a0-0e27-477f-8b7c-b0da1a11b110)
 
 
+#### Q-7) % Split of votes of parties between 2014 vs 2019 at state level.
+
+created view 'parties_state_wise_vote_share_2014' and 'parties_state_wise_vote_share_2019' using
+
+![Screenshot 2024-06-06 134745](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/3183fd70-7f37-4483-8316-67c52ebba75d)
+![Screenshot 2024-06-06 134757](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/3a1fad45-3183-4d83-8136-9fabf29a9f8b)
+
+Created union of 'parties_state_wise_vote_share_2014' and 'parties_state_wise_vote_share_2019'
+
+![Screenshot 2024-06-06 135029](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/34dc724b-2ff1-4682-8421-235c870bc9ad)
+![Screenshot 2024-06-06 135038](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/5d350bbf-e1d3-405d-9278-1cb718a5fa20)
+
+Result
+![image (1)](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/720f09d3-05c0-4bc0-9f8a-5b1549b8e878)
+
+
 
 
 
