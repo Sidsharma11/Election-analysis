@@ -156,6 +156,10 @@ Top bad performing constituencies for INC from 2014 to 2019
 ![Screenshot 2024-06-06 194126](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/d586bea7-5705-42a1-a22c-e578c2179da3)
 
 
+### Q-10) List top constituency that has voted the most for NOTA?
+
+![Screenshot 2024-06-06 195421](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/098c05bc-eeb2-4376-8e76-c8f9c2d6daf2)
+
 
 
 
