@@ -162,12 +162,17 @@ Top bad performing constituencies for INC from 2014 to 2019
 
 #### Q-11) Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019?
 
-From the view 'parties_vote_share_2019', we can clearly see that only BJP and INC have got vote share above 10 % at national level.
+This will give data all the constituency where the winner party has less than 10% vote share at the state level.
 
-![Screenshot 2024-06-06 200449](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/c496bf1b-8c8b-4409-ae11-420776905c2e)
 
-Some of the constituency where winner party has less than 10% vote share at national level.
-![Screenshot 2024-06-06 200720](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/8987a32c-78cb-49c2-894d-050c3b932779)
+
+![Screenshot 2024-06-12 005059](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/a121f80f-7d6b-4573-b515-b124d61cf6bb)
+![Screenshot 2024-06-12 005129](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/20c146b0-1919-4c38-84ae-251b9a035f49)
+
+Final solution
+
+![Screenshot 2024-06-12 005421](https://github.com/Sidsharma11/Atliq_sales_report/assets/167175484/f23c67ea-3146-4085-a413-7844d8dab3da)
+
 
 
 
