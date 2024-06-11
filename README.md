@@ -1,5 +1,5 @@
 # Election Analysis
-Live Report link:
+Live Report link:https://app.powerbi.com/groups/me/reports/dd7aecd3-987a-4154-adf8-58903b4230b9/fa7979cd03f9c3b89d95?experience=power-bi
 
 ## Project Overview
 C-Voter is a private media company and they wanted to telecast a show on Lok
