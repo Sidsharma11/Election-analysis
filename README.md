@@ -11,6 +11,61 @@ is to  generate meaningful insights from data.
 
 ## Dataset Understanding
 The dataset consist of 3 csv fies.
+-constituency_wise_results_2014
+-constituency_wise_results_2019
+-dim_states_codes
+
+## Tech Stacks
+
+* SQL
+* PowerBi Desktop
+* Excel
+* DAX language
+
+# Power BI Tools and Techniques Learned
+* What are all the questions should be asked before staring the project
+* Creating calculated columns
+* Data modeling
+  * Primary Key
+  * Foreign Key
+* Ceated measures using DAX language
+     * Learned the importance of **Row Context, Filter Context and Context transition**.
+     * DAX functions used :-
+        * MAX()
+        * SUM()
+        * CALCULATE()
+        * TREATEAS()
+        * RANK()
+        * SUMMERIZE
+        * CALCULATETABLE()
+        * COUNTROW()
+        * SWITCH() function to create conditional measure.
+        * SELECTEDVALUE()
+        
+  * Page navigation with buttons
+* Using divide function to prevent zero division errors
+* Replacing value using m language in Power Query Editor.
+* Dynamic titles based on the applied filters.
+* Using KPI indicators
+* Conditional formatting the values in visuals using icons or background color
+* Using Fields parameters. Fields Parameters allows users to choose which column to use to slice and dice values in a Power BI visual. 
+* Data validation techniques
+* PowerBi services
+* Publishing reports to PowerBi services
+
+
+
+
+## Dataset Understanding.
+Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
+
+ Dimension table : It will have the static data like details of customer and products
+
+ Fact table : It will have the data about the transactions
+
+  
+## Importing data into PowerBi
+
 
 ## Steps Performed
 
