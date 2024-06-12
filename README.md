@@ -11,9 +11,9 @@ is to  generate meaningful insights from data.
 
 ## Dataset Understanding
 The dataset consist of 3 csv fies.
--constituency_wise_results_2014
--constituency_wise_results_2019
--dim_states_codes
+* constituency_wise_results_2014
+* constituency_wise_results_2019
+* dim_states_codes
 
 ## Tech Stacks
 
